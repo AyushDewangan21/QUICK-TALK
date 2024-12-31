@@ -9,4 +9,4 @@ You can try out QuickTalk by visiting the live demo here:
 
 ## Preview 
 
-(https://github.com/user-attachments/assets/fb94fe7b-403f-4a19-8a28-0569a1b4de28)
+![](https://github.com/user-attachments/assets/fb94fe7b-403f-4a19-8a28-0569a1b4de28)
