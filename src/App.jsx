@@ -42,7 +42,7 @@ const myList = document.getElementById('myList');
       newListItem.setAttribute('id','extraleft')
         newListItem.style.paddingRight="40rem"
         newListItem.textContent =leftComm
-        setLeftComm('')
+        setLeftComm('jj')
     }
     else{
       newListItem.setAttribute('id','extraright')
