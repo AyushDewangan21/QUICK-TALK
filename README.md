@@ -5,7 +5,8 @@ QuickTalk is a real-time chat application built with **React.js** for the fronte
 ## Demo
 
 You can try out QuickTalk by visiting the live demo here:  
-[Live Demo](#) *(https://vercel.com/ayushdewangan21s-projects/quick-talk/2tHpsrGtAuk3xzCZ6do7b8GEWGZL)*
+
+[Text you want to display]([URL](https://vercel.com/ayushdewangan21s-projects/quick-talk/2tHpsrGtAuk3xzCZ6do7b8GEWGZL))
 
 ## Preview 
 
